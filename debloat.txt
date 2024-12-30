@@ -1,0 +1,10 @@
+com.oneplus.factorymode
+com.oplus.factorymode
+com.oneplus.account
+com.oneplus.calculator
+com.oneplus.accessory
+com.oplus.nhs
+com.oplus.olc
+com.oplus.onet
+com.oplus.sos
+com.oplus.viewtalk
